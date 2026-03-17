@@ -2,18 +2,18 @@
 Hi, I'm **Rifki Saadi**  
 ➥ Web Developer focused on building modern web apps, APIs, and automation tools.
 
-![JavaScript](https://img.shields.io/badge/Javascript-ESM-yellow)
-![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-green)
-![Status](https://img.shields.io/badge/Focus-Backend-blue)
----
-## About Me ✨
-### Name   : KyynXz (Rifki Saadi)
-### Github : ![Click Here](https://github.com/RIFKIror)
----
-## My Projects
-
-| Project | Description | Link |
-|----------|--------------|--------|
-| Simple Base Bot | Bot WhatsApp berbasis case, mudah dikembangkan & cocok untuk pembelajaran automation | [View Project](https://github.com/username/repo) |
-| API Downloader | API all-in-one untuk download dari berbagai platform | [View Project](https://github.com/username/repo) |
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
