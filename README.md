@@ -6,10 +6,12 @@ Hi, I'm **Rifki Saadi**
 ![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-green)
 ![Status](https://img.shields.io/badge/Focus-Backend-blue)
 ---
-# My Project
-## Simple base bot
-![Simple Base Bot]()
-➥ Bot WhatsApp type case, mudah dikembangkan dan dipelajari
+## 🚀 My Projects
+
+| 🚀 Project | 📄 Description | 🔗 Link |
+|----------|--------------|--------|
+| Simple Base Bot | Bot WhatsApp berbasis case, mudah dikembangkan & cocok untuk pembelajaran automation | [View](https://github.com/username/repo) |
+| API Downloader | API all-in-one untuk download dari berbagai platform | [View](https://github.com/username/repo) |
 ---
 ## About Me ✨
 <p align="center">
