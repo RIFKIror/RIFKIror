@@ -1,8 +1,1 @@
-# It's me KyynXz 👋
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-green)
-![Status](https://img.shields.io/badge/Focus-Backend-blue)
-
-![Typing](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+profile+Github)
-
-*Nama saya Rifki Saadi, saya berfokus pada pengembangan web developer*
+![Typing](https://readme-typing-svg.herokuapp.com?color=00ADB5&size=24&center=true&vCenter=true&width=500&lines=Hi+I'm+Kyyn;Fullstack+Developer;Bot+Engineer;Welcome+to+my+GitHub)
