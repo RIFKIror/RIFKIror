@@ -1,2 +1,3 @@
 # Welcome to my github profile 👋
-Halo saya `Rifki Saadi` Developer kecil yang berfokus pada pengembangan web developer
+Hi, I'm **Rifki Saadi**  
+➥ Web Developer focused on building modern web apps, APIs, and automation tools.
