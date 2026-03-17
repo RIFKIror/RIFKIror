@@ -34,11 +34,11 @@ Web Developer focused on building modern web apps, APIs, and automation tools.
 
 <div align="center">
 
-[![whatsapp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d)
+[![whatsapp](https://img.shields.io/badge/whatsapp_channel-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d)
 
-[![telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyynxz31)
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyynxz31)
 
-[![restapi](https://img.shields.io/badge/REST_API-LexCode-00C853?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.lexcode.biz.id)
+[![restapi](https://img.shields.io/badge/REST_API-00C853?style=for-the-badge&logo=fastapi&logoColor=white)](https://api.lexcode.biz.id)
 
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kyynns.vercel.app)
   </a>
