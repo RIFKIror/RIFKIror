@@ -33,9 +33,7 @@ Web Developer focused on building modern web apps, APIs, and automation tools.
 ---
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d" target="_blank" style="text-decoration:none; margin:0 15px;">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
-  </a>
+  [![whatsapp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d)
 
   <a href="https://t.me/kyynxz31" target="_blank" style="text-decoration:none; margin:0 15px;">
     <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
