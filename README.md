@@ -10,3 +10,16 @@ Hi, I'm **Rifki Saadi**
 ## Simple base bot
 ![Simple Base Bot]()
 ➥ Bot WhatsApp type case, mudah dikembangkan dan dipelajari
+---
+## About Me ✨
+<p align="center">
+  <a href="https://wa.me/628xxxx">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
+  </a>
+  <a href="https://t.me/username">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-Visit-black?style=for-the-badge&logo=google-chrome"/>
+  </a>
+</p>
