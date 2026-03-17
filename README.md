@@ -25,14 +25,12 @@ Hi, I'm <b>Rifki Saadi</b>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIFKIror&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+---
 <div align="center">
-  ## Contact me
-
   <a href="https://wa.me/6281239075413" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
   </a>
@@ -56,5 +54,4 @@ Hi, I'm <b>Rifki Saadi</b>
   <a href="https://github.com/RIFKIror" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   </a>
-
 </div>
