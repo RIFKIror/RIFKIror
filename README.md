@@ -29,15 +29,15 @@ It's me <b>KyynXzz</b>
 ---
 
 <div align="center">
-  <a href="https://wa.me/6281239075413" target="_blank" style="text-decoration:none; margin:0 8px;">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
+  <a href="https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d" target="_blank" style="text-decoration:none; margin:0 15px;">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
   </a>
 
-  <a href="https://t.me/kyynxz31" target="_blank" style="text-decoration:none; margin:0 8px;">
-    <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
+  <a href="https://t.me/kyynxz31" target="_blank" style="text-decoration:none; margin:0 15px;">
+    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
   </a>
 
-  <a href="https://github.com/RIFKIror" target="_blank" style="text-decoration:none; margin:0 8px;">
+  <a href="https://github.com/RIFKIror" target="_blank" style="text-decoration:none; margin:0 15px;">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   </a>
 </div>
