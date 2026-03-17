@@ -3,5 +3,5 @@
 ![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-green)
 ![Status](https://img.shields.io/badge/Focus-Backend-blue)
 
-## Welcome to my github
+![Typing](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+profile+Github)
 *Nama saya Rifki Saadi, saya berfokus pada pengembangan web developer*
