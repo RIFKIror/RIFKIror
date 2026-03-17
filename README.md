@@ -41,8 +41,7 @@ Web Developer focused on building modern web apps, APIs, and automation tools.
     <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
   </a>
 
-  <a href="https://github.com/RIFKIror" target="_blank" style="text-decoration:none; margin:0 15px;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kyynns.vercel.app)
   </a>
 </div>
 
