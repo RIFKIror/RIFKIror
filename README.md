@@ -5,3 +5,8 @@ Hi, I'm **Rifki Saadi**
 ![JavaScript](https://img.shields.io/badge/Javascript-ESM-yellow)
 ![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-green)
 ![Status](https://img.shields.io/badge/Focus-Backend-blue)
+---
+# My Project
+## Simple base bot
+![Simple Base Bot]()
+➥ Bot WhatsApp type case, mudah dikembangkan dan dipelajari
