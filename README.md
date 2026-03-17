@@ -1,7 +1,6 @@
 # Welcome to my github profile 👋
 Hi, I'm **Rifki Saadi**  
 ➥ Web Developer focused on building modern web apps, APIs, and automation tools.
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
