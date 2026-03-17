@@ -1,6 +1,11 @@
-# Welcome to my github profile 👋
-Hi, I'm **Rifki Saadi**  
+<div align="center">
+
+# 👋 Welcome to my GitHub Profile
+
+Hi, I'm <b>Rifki Saadi</b>  
 ➥ Web Developer focused on building modern web apps, APIs, and automation tools.
+
+</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
